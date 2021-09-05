@@ -14,6 +14,10 @@ import javafx.stage.Stage;
 
 import java.util.Random;
 
+/**
+ * Gruppe medlemmer: Björn Keymis
+ */
+
 public class Main extends Application {
     private final BorderPane window = new BorderPane();
     private final Pane treePane = new Pane();
